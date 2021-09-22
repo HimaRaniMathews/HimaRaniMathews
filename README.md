@@ -1,7 +1,7 @@
 # **Hi There 👋 , I'm ** [HIMA RANI MATHEWS] :blush:
 
 
-## 🎓 I'm a Computer Science Engineering student at the Vellore Institute of Technology, Chennai
+## 🎓 I'm a Computer Science student at the Vellore Institute of Technology, Chennai
 - 💻 I’m a Frontend Web Developer 
 - 🦸‍♀️ An aspiring Data Scientist 
 - 👨‍💻 A competitive Programmer
