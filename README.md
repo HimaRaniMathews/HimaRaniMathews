@@ -1,4 +1,4 @@
-# **Hi There 👋 , I'm ** [HIMA RANI MATHEWS]https://vishal-raj-1.github.io/Portfolio/) :blush:
+# **Hi There 👋 , I'm ** [HIMA RANI MATHEWS] :blush:
 ![](https://visitor-badge.laobi.icu/badge?page_id=himaranimathews.himaranimathews) [![Github](https://img.shields.io/github/followers/himaranimathews?label=Followers&logo=Github)](https://github.com/himaranimathews)
 
 
