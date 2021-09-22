@@ -1,7 +1,7 @@
 ## Hi There 👋 , I'm  [HIMA RANI MATHEWS] :blush:
 
 
-## 🎓 I'm a Computer Science student at the Vellore Institute of Technology, Chennai
+## 🎓* I'm a Computer Science student at the Vellore Institute of Technology, Chennai *
 - 💻 I’m a Frontend Web Developer 
 - 🦸‍♀️ An aspiring Data Scientist 
 - 👨‍💻 A competitive Programmer
@@ -29,7 +29,7 @@
 * Open Source Contributor of [HacktoberFest 2020](https://hacktoberfest.digitalocean.com/) 
 
 
-## 👨‍💻 *Technical Skills I am Familiar With*:
+## 👩‍💻 *Technical Skills I am Familiar With*:
 
 <p>
 <br/>
@@ -45,7 +45,6 @@
 <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" style="margin:2px;"/>  
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" style="margin:2px;"/> 
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" style="margin:2px;"/>
-<img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" style="margin:2px;"/>
 
 
 <br>
