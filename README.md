@@ -9,6 +9,7 @@
 - 👯 I’m looking to collaborate with anyone on any project.
 - ❤️ Fun fact: I love cooking and gardening.
 
+
 ## 🚀 Find me on:
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" >](mailto:himaranimathew@gmail.com)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/hima-rani-mathews/)
@@ -26,6 +27,7 @@
 * Web Developer Intern at [VerZeo](https://www.verzeo.com/https://github.com/girlscript) - I have worked on a project on Home Decor Ecommerce Store along with my 9 other Teammates in this internship
 * Project : [PETSWORLD](https://github.com/HimaRaniMathews/PETSWORLD-Ecommerce_Website.git) ,is an ecommerce website that I developed. In this project I have used Html,CSS,JS and Bootstrap for Frontend and PHP and MySQL for Backend. 
 * Open Source Contributor of [HacktoberFest 2020](https://hacktoberfest.digitalocean.com/) 
+
 
 
 ## 👩‍💻 Technical Skills I am Familiar With:
@@ -46,6 +48,7 @@
 
 <br>
 </p>
+
 
 ## 🏆 Github Status
 
