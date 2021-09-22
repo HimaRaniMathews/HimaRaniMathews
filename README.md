@@ -1,11 +1,10 @@
 # **Hi There 👋 , I'm ** [HIMA RANI MATHEWS] :blush:
-![](https://visitor-badge.laobi.icu/badge?page_id=himaranimathews.himaranimathews) [![Github](https://img.shields.io/github/followers/himaranimathews?label=Followers&logo=Github)](https://github.com/himaranimathews)
 
 
 ## 🎓 I'm a Computer Science Engineering student at the Vellore Institute of Technology, Chennai
 - 💻 I’m a Frontend Web Developer 
 - 🦸‍♀️ An aspiring Data Scientist 
-- 👨‍💻 A competative Programmer
+- 👨‍💻 A competitive Programmer
 - 🚀 I'm currently learning Python and Data Analytics.
 - 👯 I’m looking to collaborate with anyone on any project.
 - ❤️ Fun fact: I love cooking and gardening.
