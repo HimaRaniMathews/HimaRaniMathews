@@ -1,4 +1,4 @@
-# **Hi There 👋 , I'm ** [HIMA RANI MATHEWS] :blush:
+## **Hi There 👋 , I'm ** [HIMA RANI MATHEWS] :blush:
 
 
 ## 🎓 I'm a Computer Science student at the Vellore Institute of Technology, Chennai
