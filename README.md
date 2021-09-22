@@ -8,7 +8,6 @@
 - 🚀 I'm currently learning Python and Data Analytics.
 - 👯 I’m looking to collaborate with anyone on any project.
 - ❤️ Fun fact: I love cooking and gardening.
-- 
 <br>
 
 ## 🚀 Find me on:
