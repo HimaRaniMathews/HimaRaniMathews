@@ -22,10 +22,9 @@
 
 ## ⚒ *My Experience*
 
+* Technical team Member at Codechef VIT Chennai Chapter
 * Web Developer Intern at [VerZeo](https://www.verzeo.com/https://github.com/girlscript) - I have worked on a project on Home Decor Ecommerce Store along with my 9 other Teammates in this internship
-
 * Project : [PETSWORLD](https://github.com/HimaRaniMathews/PETSWORLD-Ecommerce_Website.git) ,is an ecommerce website that I developed. In this project I have used Html,CSS,JS and Bootstrap for Frontend and PHP and MySQL for Backend. 
-
 * Open Source Contributor of [HacktoberFest 2020](https://hacktoberfest.digitalocean.com/) 
 
 
