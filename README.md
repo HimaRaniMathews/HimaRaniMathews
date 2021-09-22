@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate with anyone on any project.
 - ❤️ Fun fact: I love cooking and gardening.
 
-
+<br>
 ## 🚀 Find me on:
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" >](mailto:himaranimathew@gmail.com)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/hima-rani-mathews/)
@@ -19,7 +19,7 @@
 [<img src=	"https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white">](https://www.codechef.com/users/himaranimathew)
 [<img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>](https://www.hackerrank.com/himaranimathews)
 [<img src=	"https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">](https://www.kaggle.com/himaranimathews)
-
+<br>
 
 ## ⚒ My Experience
 
@@ -28,7 +28,7 @@
 * Project : [PETSWORLD](https://github.com/HimaRaniMathews/PETSWORLD-Ecommerce_Website.git) ,is an ecommerce website that I developed. In this project I have used Html,CSS,JS and Bootstrap for Frontend and PHP and MySQL for Backend. 
 * Open Source Contributor of [HacktoberFest 2020](https://hacktoberfest.digitalocean.com/) 
 
-
+<br>
 
 ## 👩‍💻 Technical Skills I am Familiar With:
 
@@ -44,12 +44,9 @@
 <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" style="margin:2px;"/>  
 <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" style="margin:2px;"/> 
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" style="margin:2px;"/>
-
-
 <br>
 </p>
-
-
+<br>
 ## 🏆 Github Status
 
 <img  src="https://github-readme-stats.vercel.app/api?username=himaranimathews&show_icons=true&theme=tokyonight" width="48%" align="right" >
