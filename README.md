@@ -1,7 +1,7 @@
 ## Hi There 👋 , I'm  HIMA RANI MATHEWS :blush:
 
 
-## 🎓 *I'm a Computer Science student at the Vellore Institute of Technology, Chennai*
+## 🎓 I'm a Computer Science student at the Vellore Institute of Technology, Chennai
 - 💻 I’m a Frontend Web Developer 
 - 🦸‍♀️ An aspiring Data Scientist 
 - 👨‍💻 A competitive Programmer
@@ -9,7 +9,7 @@
 - 👯 I’m looking to collaborate with anyone on any project.
 - ❤️ Fun fact: I love cooking and gardening.
 
-## 🚀 *Find me on:*
+## 🚀 Find me on:
 [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" >](mailto:himaranimathew@gmail.com)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/hima-rani-mathews/)
 [<img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/himaranimathews/)
@@ -20,7 +20,7 @@
 [<img src=	"https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">](https://www.kaggle.com/himaranimathews)
 
 
-## ⚒ *My Experience*
+## ⚒ My Experience
 
 * Technical team Member at Codechef VIT Chennai Chapter
 * Web Developer Intern at [VerZeo](https://www.verzeo.com/https://github.com/girlscript) - I have worked on a project on Home Decor Ecommerce Store along with my 9 other Teammates in this internship
@@ -28,7 +28,7 @@
 * Open Source Contributor of [HacktoberFest 2020](https://hacktoberfest.digitalocean.com/) 
 
 
-## 👩‍💻 *Technical Skills I am Familiar With*:
+## 👩‍💻 Technical Skills I am Familiar With:
 
 <p>
 <br/>
@@ -49,7 +49,7 @@
 <br>
 </p>
 
-## 🏆 *Github Status*
+## 🏆 Github Status
 
 <img  src="https://github-readme-stats.vercel.app/api?username=himaranimathews&show_icons=true&theme=tokyonight" width="48%" align="right" >
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=himaranimathews&theme=dark" width="48%" >
