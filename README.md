@@ -48,7 +48,8 @@
 <br>
 </p>
 <br>
-## 🏆 Github Status
+
+## 🏆 Github Status:
 
 <img  src="https://github-readme-stats.vercel.app/api?username=himaranimathews&show_icons=true&theme=tokyonight" width="48%" align="right" >
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=himaranimathews&theme=dark" width="48%" >
