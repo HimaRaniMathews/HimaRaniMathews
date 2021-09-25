@@ -47,10 +47,11 @@
 <br>
 </p>
 <br>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=himaranimathews&show_icons=true&locale=en&langs_count=8&layout=compact" alt="himaranimathews" width=40% > </p><br>
 
 ## 🏆 Github Status:
 
-<img  src="https://github-readme-stats.vercel.app/api?username=himaranimathews&show_icons=true&theme=tokyonight" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=himaranimathews&theme=dark" width="48%" >
+<img  src="https://github-readme-stats.vercel.app/api?username=himaranimathews&show_icons=true&theme=tokyonight" width="40%" align="left" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=himaranimathews&theme=dark" width="40%" align="right" >
 <br>
 
