@@ -48,7 +48,7 @@
 <br>
 </p>
 <br>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=himaranimathews&show_icons=true&locale=en&langs_count=8&layout=compact" alt="himaranimathews" width=40% > </p><br>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=himaranimathews&show_icons=true&locale=en&langs_count=8&layout=compact" alt="himaranimathews" width=40% height=25% > </p><br>
 
 ## 🏆 Github Status:
 
