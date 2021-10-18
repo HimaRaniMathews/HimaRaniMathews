@@ -1,10 +1,12 @@
+![Hima Rani Mathews Banner Image](./Banner2.png)
+
 ## Hi There 👋 , I'm  HIMA RANI MATHEWS :blush:
 
 
-## 🎓 I'm a Computer Science student at the Vellore Institute of Technology, Chennai
+- 🎓 I'm a Computer Science student at the Vellore Institute of Technology, Chennai
 - 💻 I’m An aspiring Data Scientist🦸‍+ Web Developer 
 - 👨‍💻 A competitive Programmer
-<br>
+
 
 ## ⚒ My Experience
 
@@ -14,13 +16,11 @@
 * Project : [PETSWORLD](https://github.com/HimaRaniMathews/PETSWORLD-Ecommerce_Website.git) ,is an ecommerce website that I developed. In this project I have used Html,CSS,JS and Bootstrap for Frontend and PHP and MySQL for Backend. 
 * Open Source Contributor of [HacktoberFest 2020](https://hacktoberfest.digitalocean.com/) 
 
-<br>
-
 
 ## 🏆 Github Status:
 
-<img  src="https://github-readme-stats.vercel.app/api?username=himaranimathews&show_icons=true&theme=tokyonight" width="40%" align="left" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=himaranimathews&theme=tokyonight" width="40%" align="right" >
+<img  src="https://github-readme-stats.vercel.app/api?username=himaranimathews&show_icons=true&theme=tokyonight" width="47%" align="left" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=himaranimathews&theme=tokyonight" width="47%" align="right" >
 <br>
 
 
