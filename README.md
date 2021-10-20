@@ -4,7 +4,7 @@
 
 
 - 🎓 I'm a Computer Science student at the Vellore Institute of Technology, Chennai
-- 💻 I’m An aspiring Data Scientist🦸‍+ Web Developer 
+- 💻 I’m An aspiring Web Developer 
 - 👨‍💻 A competitive Programmer
 
 
