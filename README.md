@@ -1,6 +1,6 @@
 ![Hima Rani Mathews Banner Image](./Banner2.png)
 
-## Hi There 👋 , I'm  HIMA RANI MATHEWS :blush:
+## Hi There 👋 , I'm  [HIMA RANI MATHEWS](https://himaranimathews.github.io/) :blush:
 
 
 - 🎓 I'm a Computer Science student at the Vellore Institute of Technology, Chennai
