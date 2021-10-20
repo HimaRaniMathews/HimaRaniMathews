@@ -1,4 +1,4 @@
-![Hima Rani Mathews Banner Image](./Banner2.png)
+![Hima Rani Mathews Banner Image](./Banner4.png)
 
 ## Hi There 👋 , I'm  [HIMA RANI MATHEWS](https://himaranimathews.github.io/) :blush:
 
