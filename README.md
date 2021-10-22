@@ -13,7 +13,14 @@
 
 ##  Github Status:
 
-<img  src="https://github-readme-stats.vercel.app/api?username=himaranimathews&show_icons=true&theme=tokyonight" width="47%" align="left" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=himaranimathews&theme=tokyonight" width="47%" align="right" ><br/><br/><br/>
-<img src="https://github-profile-trophy.vercel.app/?username=himaranimathews&rank=S,AAA,AA,A,B,C&theme=tokyonight&no-bg=true" > 
+
+<img  src="https://github-readme-stats.vercel.app/api?username=HimaRaniMathews&show_icons=true&hide_border=true&theme=tokyonight" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=HimaRaniMathews&theme=tokyonight" width="48%" >
+<br>
+
+<div align="center">
+  
+[![trophy](https://github-profile-trophy.vercel.app/?username=HimaRaniMathews&rank=AAA,AA,A,B,C,S&theme=tokyonight&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
 
