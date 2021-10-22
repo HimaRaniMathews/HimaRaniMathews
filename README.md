@@ -9,7 +9,6 @@
 [<img src=	"https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white">](https://www.codechef.com/users/himaranimathew)
 [<img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>](https://www.hackerrank.com/himaranimathews)
 [<img src=	"https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white">](https://www.kaggle.com/himaranimathews)
-[<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://himaranimathews.github.io/)
 
 ##  Github Status:
 
