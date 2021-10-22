@@ -1,4 +1,4 @@
-[![Hima Rani Mathews Banner Image](./Banner4.png)](https://himaranimathews.github.io/)
+[![Hima Rani Mathews Banner Image](./Banner.png)](https://himaranimathews.github.io/)
 
 
 ## Find me on:
