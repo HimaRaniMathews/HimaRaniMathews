@@ -12,9 +12,9 @@
 
 ##  Github Status:
 
-<img alt="RK1905101's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=HimaRaniMathews&theme=dracula&hide_border=true&area=true" width="100%"  />
-<img  src="https://github-readme-stats.vercel.app/api?username=HimaRaniMathews&show_icons=true&theme=algolia" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=HimaRaniMathews&theme=algolia" width="48%" >
+<img alt="RK1905101's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=HimaRaniMathews&theme=react-dark&hide_border=true&area=true" width="100%"  />
+<img  src="https://github-readme-stats.vercel.app/api?username=HimaRaniMathews&show_icons=true&theme=react" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=HimaRaniMathews&theme=react" width="48%" >
 <br>
 
 <div align="center">
