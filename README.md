@@ -19,7 +19,7 @@
 
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=HimaRaniMathews&rank=AAA,AA,A,B,C,S&theme=darkhub&margin-w=25)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=HimaRaniMathews&rank=SSS,SS,S,AAA,AA,A,B,C,UNKNOWN&theme=dracula&margin-w=20)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
