@@ -1,5 +1,5 @@
 
-[<img align='right' src="./img2.png" width="230">](https://himaranimathews.github.io/)
+[<img align='right' src="./giphy.gif" width="300">](https://himaranimathews.github.io/)
 
 
 <h1 align="center">HI <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Hima Rani Mathews 🐾</h1>
