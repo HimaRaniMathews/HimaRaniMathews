@@ -2,12 +2,13 @@
 [<img align='right' src="./img2.png" width="230">](https://himaranimathews.github.io/)
 
 
-<h1 align="center">HI <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Hima Rani Mathews</h1>
+<h1 align="center">HI <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I'm Hima Rani Mathews 🐾</h1>
 <p align="justify">
-🔭 I am currently pursuing my B.tech in Computer Science from VIT, Chennai. <br>
-👨‍💻 I am a Web Developer Enthusiast and Aspiring Data Scienist. <br>
-🌱 I am currently learning ReactJS framework. <br>
-⚡ I have quite good experience in Web Development. I have created an ecommerce website PetsWorld using HTML, CSS, JS, MySQL & PHP. Otherthan this i have worked on mini-projects using Python and JavaScript.<br>
+  
+- I am currently pursuing my B.tech in Computer Science from VIT, Chennai. <br>
+- I am a Web Developer Enthusiast and Aspiring Data Scienist. <br>
+- I am currently learning ReactJS framework. <br>
+- I have quite good experience in Web Development. I have created an ecommerce website PetsWorld using HTML, CSS, JS, MySQL & PHP. Otherthan this i have worked on mini-projects using Python and JavaScript.<br>
 </p>
 <br>
 
