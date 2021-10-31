@@ -3,14 +3,12 @@
 
 
 <h1 align="center">HI I'm Hima Rani Mathews <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  </h1>
-<p align="justify">
+<p>
   
-- I am currently pursuing my B.tech in Computer Science from VIT, Chennai. <br>
-- I am a Web Developer Enthusiast and Aspiring Data Scienist. <br>
-- I am currently learning ReactJS framework. <br>
-- I have quite good experience in Web Development. I have created an ecommerce website PetsWorld using HTML, CSS, JS, MySQL & PHP. Otherthan this i have worked on mini-projects using Python and JavaScript.<br>
+<h3 align="justify">I'm currently pursuing my B.Tech in Computer Science at VIT, Chennai. I am an aspiring Web Developer and Data Scientist. I'm currently learning the ReactJS framework. I have quite good experience in Web Development. I have created an eCommerce website PetsWorld using HTML, CSS, JS, MySQL & PHP and have worked on mini-projects like To-Do List, Calculator, Music Player, etc using JavaScript and Python<h3>
+  
 </p>
-<br>
+
 
 
 ##  
