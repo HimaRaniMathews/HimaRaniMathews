@@ -6,15 +6,7 @@ I'm currently pursuing my B.Tech in Computer Science at VIT, Chennai. I am an as
 ##  
 
 <img alt="Hima Rani Mathews's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=HimaRaniMathews&theme=react-dark&area=true" width="100%"  />
-<img  src="https://github-readme-stats.vercel.app/api?username=HimaRaniMathews&show_icons=true&theme=react" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=HimaRaniMathews&theme=react" width="48%" >
-<br>
 
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=HimaRaniMathews&rank=SSS,SS,S,AAA,AA,A,B,C,UNKNOWN&theme=dracula&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 ##
 
