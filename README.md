@@ -4,7 +4,7 @@
 
 - B.tech CSE student at VIT,Chennai<br />
 - Currently learning ReactJS and Data Analytics
-- Aspiring Web Developer + Data Sciecntist
+- Aspiring Web Developer + Data Scientist
 - Focusing on **#100daysofCode**
 
 ##  
