@@ -1,7 +1,11 @@
 [<img align='right' src="./Images/g2.gif" width="320">](https://himaranimathews.github.io/)
 <h1 align="center">HI I'm Hima Rani Mathews <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">  </h1>
-<p align="justify">  
-I'm currently pursuing my B.Tech in Computer Science at VIT, Chennai. I am an aspiring Web Developer and Data Scientist. I'm currently learning the ReactJS framework. I have quite good experience in Web Development. I have created an eCommerce website PetsWorld using HTML, CSS, JS, MySQL & PHP and have worked on many mini-projects like To-Do List, Calculator, Music Player, etc using JavaScript and Python.</p>
+
+
+- B.tech CSE student at VIT,Chennai<br />
+- Currently learning ReactJS and Data Analytics
+- Aspiring Web Developer + Data Sciecntist
+- Focusing on **#100daysofCode**
 
 ##  
 <img alt="Hima Rani Mathews's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=HimaRaniMathews&theme=react-dark&area=true" width="100%"  />
