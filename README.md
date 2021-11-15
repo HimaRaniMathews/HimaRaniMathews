@@ -6,6 +6,14 @@
 - Currently learning ReactJS and Data Analytics
 - Aspiring Web Developer + Data Scientist
 - Focusing on **#100daysofCode**
+- Projects that i worked on:
+  - [**PetsWorld**](https://github.com/HimaRaniMathews/PETSWORLD-Ecommerce_Website) :
+    - An Ecommerce website made using HTML,CSS,Bootstrap,JavaScript,Mysql and PHP. 
+    - A beginner Friendly website with proper Frontend and Backend connection.
+  - [**Sentiment Analysis**](https://github.com/gunjapandey/twitter-sentiment-analysis) :
+    - Data Analytics Project on Twitter Sentiment Analysis. 
+    - Have trained the model using Logistic Regression,RandomForest and XGBoost Models.
+    - Got an F1 score of 6.5 with XGBoost on Word2Vec Feature.
 
 ##  
 <img alt="Hima Rani Mathews's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=HimaRaniMathews&theme=react-dark&area=true" width="100%"  />
