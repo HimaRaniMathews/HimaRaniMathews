@@ -10,22 +10,16 @@ I'm currently pursuing my B.Tech in Computer Science at VIT, Chennai. I am an as
 <img  src="https://github-readme-stats.vercel.app/api?username=HimaRaniMathews&show_icons=true&theme=react" width="48%" align="right" >
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=HimaRaniMathews&theme=react" width="48%" >
 
-
 ##
-<div align="center">
-  
-<a href="https://github.com/HimaRaniMathews" ><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimaRaniMathews&layout=compact&theme=react" width="40%" /></a> 
+<a href="https://github.com/HimaRaniMathews" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimaRaniMathews&layout=compact&theme=react" width="40%" /></a> 
 
-</div>
-
-
-##
+## 
 <div align="center">
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=HimaRaniMathews&rank=S,AAA,AA,A,B,C&theme=darkhub&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
   
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=HimaRaniMathews.HimaRaniMathews)
-
+  
 </div>
 
 
@@ -33,4 +27,7 @@ I'm currently pursuing my B.Tech in Computer Science at VIT, Chennai. I am an as
 <br />
 <a href="https://twitter.com/hima_mathews">
   <img align="right" alt="HimaRaniMathews | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/hima-rani-mathews/">
+  <img align="right" alt="HimaRaniMathews | Linkedin" width="21px" src="./Images/linkedin.png" />
 </a>
