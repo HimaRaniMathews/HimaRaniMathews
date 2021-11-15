@@ -22,15 +22,12 @@
 <img  src="https://github-readme-stats.vercel.app/api?username=HimaRaniMathews&show_icons=true&theme=react" width="48%" align="right" >
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=HimaRaniMathews&theme=react" width="48%" >
 
-##
-<a href="https://github.com/HimaRaniMathews" ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimaRaniMathews&layout=compact&theme=react" width="40%" /></a> 
-
 ## 
 <div align="center">
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=HimaRaniMathews&rank=S,AAA,AA,A,B,C&theme=darkhub&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
   
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=HimaRaniMathews.HimaRaniMathews)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=HimaRaniMathews.HimaRaniMathews&theme=react)
   
 </div>
 
