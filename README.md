@@ -13,7 +13,7 @@
   - [**Sentiment Analysis**](https://github.com/gunjapandey/twitter-sentiment-analysis) :
     - Data Analytics Project on Twitter Sentiment Analysis. 
     - Have trained the model using Logistic Regression,RandomForest and XGBoost Models.
-    - Got an F1 score of 6.5 with XGBoost on Word2Vec Feature.
+    - Got an F1 score of 0.65 with XGBoost on Word2Vec Feature.
 
 ##  
 <img alt="Hima Rani Mathews's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=HimaRaniMathews&theme=react-dark&area=true" width="100%"  />
