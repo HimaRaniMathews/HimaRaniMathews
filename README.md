@@ -27,7 +27,6 @@
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=HimaRaniMathews&rank=S,AAA,AA,A,B,C&theme=darkhub&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
   
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=HimaRaniMathews.HimaRaniMathews&theme=react)
   
 </div>
 
