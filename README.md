@@ -19,9 +19,9 @@
     - Have used Gaussian-Mixture based Background/Foreground Subtraction
  
  
-<!--- ##  
+##  
 <img alt="Hima Rani Mathews's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=HimaRaniMathews&theme=react-dark&area=true" width="100%"  />
---->
+
 
 ##
 <img  src="https://github-readme-stats.vercel.app/api?username=HimaRaniMathews&show_icons=true&theme=react" width="48%" align="right" >
