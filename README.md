@@ -5,7 +5,7 @@
 - 3rd yr B.tech CSE student at VIT,Chennai<br />
 - Currently learning ReactJS and Data Analytics
 - Aspiring Web Developer + Data Scientist
-- Focusing on **#100daysofCode**
+- Focusing on **#howtocode**
 - Projects that i worked on:
   - [**PetsWorld**](https://github.com/HimaRaniMathews/PETSWORLD-Ecommerce_Website) :
     - An Ecommerce website made using HTML,CSS,Bootstrap,JavaScript,Mysql and PHP. 
