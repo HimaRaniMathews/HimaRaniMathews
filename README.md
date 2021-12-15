@@ -16,7 +16,9 @@
     - Got an F1 score of 0.65 with XGBoost on Word2Vec Feature.
   - [**Vehicle Detection**](https://github.com/HimaRaniMathews/Vehicle-Detection-Classification-and-Counting) :
     - Content-based-image-and-video-retrieval Project on Vehicle Detection,Classification and Counting 
-    - Have used Gaussian-Mixture based Background/Foreground Subtraction
+    - Have used Gaussian-Mixture based Background/Foreground Subtraction and Morphplogical operations to seperate objects from background and shadow removal
+    - Counted Vehicles moving Up and Down
+    - Classification Based on size into Truck and Car
  
  
 ##  
