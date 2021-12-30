@@ -7,18 +7,24 @@
 - Aspiring Web Developer + Data Scientist
 - Focusing on **#howtocode**
 - Projects that i worked on:
-  - [**PetsWorld**](https://github.com/HimaRaniMathews/PETSWORLD-Ecommerce_Website) :
-    - An Ecommerce website made using HTML,CSS,Bootstrap,JavaScript,Mysql and PHP. 
-    - A beginner Friendly website with proper Frontend and Backend connection.
-  - [**Sentiment Analysis**](https://github.com/gunjapandey/twitter-sentiment-analysis) :
-    - Data Analytics Project on Twitter Sentiment Analysis. 
-    - Have trained the model using Logistic Regression,RandomForest and XGBoost Models.
-    - Got an F1 score of 0.65 with XGBoost on Word2Vec Feature.
   - [**Vehicle Detection**](https://github.com/HimaRaniMathews/Vehicle-Detection-Classification-and-Counting) :
     - Content-based-image-and-video-retrieval Project on Vehicle Detection,Classification and Counting 
     - Have used Gaussian-Mixture based Background/Foreground Subtraction and Morphplogical operations to seperate objects from background and shadow removal
     - Counted Vehicles moving Up and Down
     - Classification Based on size into Truck and Car
+  - [**Exploring-Generative-Adversarial-Networks-GANs**](https://github.com/HimaRaniMathews/Exploring-Generative-Adversarial-Networks-GANs) :
+    - Image Processing Project on Exploring different types of GAN networks :StackGAN & SGAN
+    - Text to Image using generation using StackGAN
+    - Solving Class imbalance using SGAN
+  - [**Sentiment Analysis**](https://github.com/gunjapandey/twitter-sentiment-analysis) :
+    - Data Analytics Project on Twitter Sentiment Analysis. 
+    - Have trained the model using Logistic Regression,RandomForest and XGBoost Models.
+    - Got an F1 score of 0.65 with XGBoost on Word2Vec Feature.
+  - [**PetsWorld**](https://github.com/HimaRaniMathews/PETSWORLD-Ecommerce_Website) :
+    - Internet and Web Programming Project 
+    - An Ecommerce website made using HTML,CSS,Bootstrap,JavaScript,Mysql and PHP. 
+    - A beginner Friendly website with proper Frontend and Backend connection.
+
  
  
 ##  
