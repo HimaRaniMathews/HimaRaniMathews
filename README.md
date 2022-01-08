@@ -16,10 +16,6 @@
     - Image Processing Project on Exploring different types of GAN networks :StackGAN & SGAN
     - Text to Image using generation using StackGAN
     - Solving Class imbalance using SGAN
-  - [**Sentiment Analysis**](https://github.com/gunjapandey/twitter-sentiment-analysis) :
-    - Data Analytics Project on Twitter Sentiment Analysis. 
-    - Have trained the model using Logistic Regression,RandomForest and XGBoost Models.
-    - Got an F1 score of 0.65 with XGBoost on Word2Vec Feature.
   - [**PetsWorld**](https://github.com/HimaRaniMathews/PETSWORLD-Ecommerce_Website) :
     - Internet and Web Programming Project 
     - An Ecommerce website made using HTML,CSS,Bootstrap,JavaScript,Mysql and PHP. 
@@ -42,6 +38,10 @@
   
   
 </div>
+
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/HimaRaniMathews/count.svg" />  
+</p>
 
 
 ##
