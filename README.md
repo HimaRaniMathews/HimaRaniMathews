@@ -39,13 +39,16 @@
   
 </div>
 
-<p align="center" >   
-  <img src="https://profile-counter.glitch.me/HimaRaniMathews/count.svg" />  
-</p>
 
+<div  align="center">
+<a >
+    <img src="https://komarev.com/ghpvc/?username=HimaRaniMathews">
+</a>
+</div>
 
 ##
 <br />
+
 <a href="https://twitter.com/hima_mathews">
   <img align="right" alt="HimaRaniMathews | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
