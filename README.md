@@ -5,7 +5,7 @@
 - 3rd yr B.tech CSE student at VIT,Chennai<br />
 - Currently learning ReactJS and Data Analytics
 - Aspiring Web Developer + Data Scientist
-- Focusing on **#howtocode**
+- Focusing on **#100DaysOfCode**
 - Projects that i worked on:
   - [**Vehicle Detection**](https://github.com/HimaRaniMathews/Vehicle-Detection-Classification-and-Counting) :
     - Content-based-image-and-video-retrieval Project on Vehicle Detection,Classification and Counting 
