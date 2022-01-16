@@ -3,7 +3,7 @@
 
 
 - 3rd yr B.tech CSE student at VIT,Chennai<br />
-- Currently learning ReactJS and Data Analytics
+- Currently learning ReactJS and Data Science
 - Aspiring Web Developer + Data Scientist
 - Focusing on **#100DaysOfCode**
 - Projects that i worked on:
