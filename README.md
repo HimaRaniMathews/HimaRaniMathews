@@ -7,19 +7,10 @@
 - Aspiring Web Developer + Data Scientist
 - Focusing on **#100DaysOfCode**
 - Projects that i worked on:
-  - [**Vehicle Detection**](https://github.com/HimaRaniMathews/Vehicle-Detection-Classification-and-Counting) :
-    - Content-based-image-and-video-retrieval Project on Vehicle Detection,Classification and Counting 
-    - Have used Gaussian-Mixture based Background/Foreground Subtraction and Morphplogical operations to seperate objects from background and shadow removal
-    - Counted Vehicles moving Up and Down
-    - Classification Based on size into Truck and Car
-  - [**Exploring-Generative-Adversarial-Networks-GANs**](https://github.com/HimaRaniMathews/Exploring-Generative-Adversarial-Networks-GANs) :
-    - Image Processing Project on Exploring different types of GAN networks :StackGAN & SGAN
-    - Text to Image using generation using StackGAN
-    - Solving Class imbalance using SGAN
-  - [**PetsWorld**](https://github.com/HimaRaniMathews/PETSWORLD-Ecommerce_Website) :
-    - Internet and Web Programming Project 
-    - An Ecommerce website made using HTML,CSS,Bootstrap,JavaScript,Mysql and PHP. 
-    - A beginner Friendly website with proper Frontend and Backend connection.
+  - [**Vehicle Detection**](https://github.com/HimaRaniMathews/Vehicle-Detection-Classification-and-Counting) - Content Based Image & Video Retrieval project
+  - [**Exploring-Generative-Adversarial-Networks-GANs**](https://github.com/HimaRaniMathews/Exploring-Generative-Adversarial-Networks-GANs) - Image Processing Project
+  - [**PetsWorld**](https://github.com/HimaRaniMathews/PETSWORLD-Ecommerce_Website) - Internet and Web Programming
+  - [**Expense Tracker**](quirky-turing-35e188.netlify.app) - Made using HTML,CSS & REACTJS
 
  
  
