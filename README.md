@@ -9,7 +9,7 @@
 - Projects that i worked on:
   - [**Vehicle Detection**](https://github.com/HimaRaniMathews/Vehicle-Detection-Classification-and-Counting) - Content Based Image & Video Retrieval project
   - [**Exploring-Generative-Adversarial-Networks-GANs**](https://github.com/HimaRaniMathews/Exploring-Generative-Adversarial-Networks-GANs) - Image Processing Project
-  - [**PetsWorld**](https://github.com/HimaRaniMathews/PETSWORLD-Ecommerce_Website) - Internet and Web Programming
+  - [**PetsWorld**](https://github.com/HimaRaniMathews/PETSWORLD-Ecommerce_Website) - An E-comm Website
   - [**Expense Tracker**](quirky-turing-35e188.netlify.app) - Made using HTML,CSS & REACTJS
 
 ##
