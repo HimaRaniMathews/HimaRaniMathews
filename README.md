@@ -46,7 +46,7 @@
 ## 
 <div align="center">
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=HimaRaniMathews&rank=S,AAA,AA,A,B&theme=darkhub&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=HimaRaniMathews&rank=S,AAA,AA,A,B,C&theme=darkhub&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
   
   
 </div>
