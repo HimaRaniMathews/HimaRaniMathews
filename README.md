@@ -9,9 +9,9 @@
 - Projects that i worked on:
   - [**Vehicle Detection**](https://github.com/HimaRaniMathews/Vehicle-Detection-Classification-and-Counting) - Content Based Image & Video Retrieval project
   - [**Exploring-Generative-Adversarial-Networks-GANs**](https://github.com/HimaRaniMathews/Exploring-Generative-Adversarial-Networks-GANs) - Image Processing Project
-  - [**PetsWorld**](http://himaranimathews-petsworld.epizy.com/) - An E-comm Website
+  - [**PetsWorld**](http://himaranimathews-petsworld.epizy.com/) - An E-comm Website made using HTML,CSS,JS,PHP and Mysqli
   - [**Expense Tracker**](https://himaranimathews-expensetracker.netlify.app/) - Made using HTML,CSS & REACTJS
-
+  - [**Breast Cancer Prediction**](https://github.com/HimaRaniMathews/Breast-Cancer-Prediciton) - Prediction of Breast Cancer using ML models like Logistic Regression, Random Forest, Naive Bayes Classifier, KNN model and XGBoost. We have used Breast Cancer Wisconsin (Diagnostic) Data Set by UCI Machine Learning.
 ##
 ### Web Technologies :
 <div align="left">
@@ -57,6 +57,8 @@
     <img src="https://komarev.com/ghpvc/?username=HimaRaniMathews">
 </a>
 </div>
+
+<p align="center"> <a href="https://twitter.com/HimaRaniMathews" target="blank"><img src="https://img.shields.io/twitter/follow/HimaRaniMathews?logo=twitter&style=for-the-badge" alt="HimaRaniMathews" /></a> </p>
 
 ##
 <br />
