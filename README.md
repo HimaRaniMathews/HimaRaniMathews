@@ -58,14 +58,10 @@
 </a>
 </div>
 
-<p align="center"> <a href="https://twitter.com/HimaRaniMathews" target="blank"><img src="https://img.shields.io/twitter/follow/HimaRaniMathews?logo=twitter&style=for-the-badge" alt="HimaRaniMathews" /></a> </p>
 
 ##
 <br />
 
-<a href="https://twitter.com/hima_mathews">
-  <img align="right" alt="HimaRaniMathews | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
 <a href="https://www.linkedin.com/in/hima-rani-mathews/">
   <img align="right" alt="HimaRaniMathews | Linkedin" width="21px" src="./Images/linkedin.png" />
 </a>
