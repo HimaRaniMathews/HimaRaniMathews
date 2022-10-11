@@ -83,9 +83,4 @@
 </div>
 
 
-##
-<br />
 
-<a href="https://www.linkedin.com/in/hima-rani-mathews/">
-  <img align="right" alt="HimaRaniMathews | Linkedin" width="21px" src="./Images/linkedin.png" />
-</a>
