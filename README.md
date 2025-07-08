@@ -52,16 +52,8 @@
 <div align="center">
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=HimaRaniMathews&rank=S,AAA,AA,A,B,C&theme=darkhub&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-  
-  
 </div>
 
-
-<div  align="center">
-<a >
-    <img src="https://komarev.com/ghpvc/?username=HimaRaniMathews">
-</a>
-</div>
 
 
 
