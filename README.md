@@ -43,16 +43,7 @@
 ##  
 [![Hima's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HimaRaniMathews&theme=react-dark)](https://github.com/HimaRaniMathews/github-readme-activity-graph)
 
-##
-<img  src="https://github-readme-stats.vercel.app/api?username=HimaRaniMathews&show_icons=true&theme=react" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=HimaRaniMathews&theme=react" width="48%" >
 
-
-## 
-<div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=HimaRaniMathews&rank=S,AAA,AA,A,B,C&theme=darkhub&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-</div>
 
 
 
